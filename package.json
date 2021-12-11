@@ -1,0 +1,19 @@
+{
+  "name": "tdd2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^27.0.3",
+    "jest": "^27.4.4",
+    "ts-jest": "^27.1.1",
+    "typescript": "^4.5.3"
+  },
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "ts-node": "^10.4.0"
+  }
+}
